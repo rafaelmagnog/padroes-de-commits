@@ -459,10 +459,4 @@ Se necessário, abra o arquivo `.git/hooks/commit-msg` em um editor de texto e p
 
 Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/padroes-de-commits/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
 
-## Disponível para freelas - #OpenToWork 🚀
 
-Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
-
-📬 Entre em contato:
-📧 iuricold99@gmail.com
-💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
